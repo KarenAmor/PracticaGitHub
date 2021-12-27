@@ -1,18 +1,20 @@
 body {
 text-align: center;
 font-family: 'Arial';
-color: chartreuse;
+color: palevioletred;
 display: flex;
 
 }
 div{
     background-color: cornsilk;
-    width: 45%;
+    width: 50%;
     margin: auto;
+    border: gold 4px ;
 }
 h1{
-    color: crimson;
+    color: fuchsia;
     font-size: 60px;
+    border: rgb(107, 92, 7) 2px ;
 }
 p{
     font-size: 45px;
